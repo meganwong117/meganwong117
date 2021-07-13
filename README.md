@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Megan, a full-stack developer from Hong Kong 🤓
+- I'm Megan, a full-stack developer and product manager based in London but originally from Hong Kong 🤓
 
 <!--
 **meganwong117/meganwong117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
